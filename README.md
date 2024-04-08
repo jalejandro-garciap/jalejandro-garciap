@@ -3,11 +3,12 @@
 </p>
 
 # 💫 About Me:
-- 🌟 I'm on a journey to evolve into a Project Manager, blending my passion for development with a knack for steering ambitious projects.<br>
-- 🧠 I'm currently diving deep into robust programming languages and cloud technologies. It's a challenging adventure that stokes my enthusiasm for practical applications.<br>
-- 🤝 Eager to collaborate on open-source projects that leverage artificial intelligence and automation, I'm all about innovation that simplifies life and amplifies potential.<br>
-- 💬 Let's talk about the roadmap from a curious 18-year-old in IT to a seasoned full-stack developer with an eye on project management. My path is filled with valuable takeaways that I enjoy sharing.<br>
-- ⚡ My years since 18 in the IT field have been a masterclass in development life cycles and crystallized my vision for my professional journey.<br>
+- 🛠 **Crafting the Future:** Transitioning to a **Senior Software Developer** role to shape the next wave of tech with foresight and precision.
+- 🤖 **AI Enthusiast:** Keen on advancing open-source AI & Automation that outthinks the ordinary. Let's innovate together!
+- ☁️ **Cloud & Code Virtuoso:** Leveling up in cloud ecosystems and robust programming—every line of code is a giant leap for tech-kind.
+- 🗺 **Proven Path:** From a tech-savvy teen to a dynamic developer since 18—driving projects from ideation to execution is my forte.
+- 💼 **Open Book:** Got queries on navigating the IT world or managing code chaos? I'm your go-to! 
+- 🚀 **Quick Byte:** I turn coffee into code—caffeine and algorithms fuel my day. Cheers to the code brewers!
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jalejandro-garciap&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
