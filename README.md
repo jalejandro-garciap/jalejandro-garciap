@@ -4,16 +4,16 @@
 
 # About Me:
 - 🌱 **Crafting the Future:**
-Transitioning to a **Senior Software Developer** role to shape the next wave of tech with foresight and precision.
+Continue learning and studying to be a **Senior Software Developer**
 - ⚙️ **AI Enthusiast:** 
 Keen on advancing open-source AI & Automation that outthinks the ordinary. Let's innovate together!
 - ☁️ **Cloud & Code Virtuoso:** 
-Leveling up in cloud ecosystems and robust programming—every line of code is a giant leap for tech-kind.
+Leveling up in cloud ecosystems and robust programming
 - 📍 **Proven Path:** 
 From a tech-savvy teen to a dynamic developer since 18—driving projects from ideation to execution is my forte.
 - 📖 **Open Book:** 
 Got queries on navigating the IT world or managing code chaos? I'm your go-to! 
-- </> **Quick Byte:** 
+- ⚡ **Quick Byte:** 
 I turn coffee into code—caffeine and algorithms fuel my day. Cheers to the code brewers!
 
 # GitHub Stats:
